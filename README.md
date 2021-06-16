@@ -1,2 +1,2 @@
-# Teste-Ola-Mundo
- Primeiro repositório, somente teste
+# Teste olá, mundo
+ Primeiro repositório, somente teste para curso de Git e GitHub
